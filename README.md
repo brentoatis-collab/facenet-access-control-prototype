@@ -1,3 +1,6 @@
+> **Applied AI portfolio project by Brent Oatis, MBA**
+> Exploring face-embedding verification for secure, auditable access-control workflows.
+
 # FaceNet Facial Recognition Security System
 
 ## CST 544 – Artificial Intelligence in Computer Vision
