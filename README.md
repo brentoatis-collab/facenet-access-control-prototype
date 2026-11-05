@@ -218,7 +218,7 @@ Vishal. (2024). *Face detection and recognition capable of beating humans using 
 
 **Brent Oatis**
 
-MBA Candidate – Artificial Intelligence Concentration
+MBA – Artificial Intelligence Concentration
 
 Concordia University, St. Paul
 
